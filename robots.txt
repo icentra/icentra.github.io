@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://icentra.github.io/sitemap.html.gz
+Sitemap: https://icentra.github.io/app/sitemap.html.gz
+Sitemap: https://icentra.github.io/assets/sitemap.html.gz
+Sitemap: https://icentra.github.io/css/sitemap.html.gz
+Sitemap: https://icentra.github.io/data/sitemap.html.gz
+Sitemap: https://icentra.github.io/includes/sitemap.html.gz
+Sitemap: https://icentra.github.io/item/sitemap.html.gz
+Sitemap: https://icentra.github.io/src/sitemap.html.gz
